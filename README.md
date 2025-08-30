@@ -1,4 +1,4 @@
-# BlueSpy - PoC to record audio from a Bluetooth device
+https://t.me/addstickers/Linepack427_by_fStikBot# BlueSpy - PoC to record audio from a Bluetooth device
 
 ![BlueSpy script](resources/BlueSpy.png)
 
